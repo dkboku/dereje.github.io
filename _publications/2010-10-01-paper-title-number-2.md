@@ -12,4 +12,11 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: @inproceedings{boku2015grobner,
+  title={Gr{\"o}bner bases over algebraic number fields},
+  author={Boku, Dereje Kifle and Decker, Wolfram and Fieker, Claus and Steenpass, Andreas},
+  booktitle={Proceedings of the 2015 International Workshop on Parallel Symbolic Computation},
+  pages={16--24},
+  year={2015},
+  organization={ACM}
+}
