@@ -2,7 +2,7 @@
 title: " Will be updated soon"
 collection: talks
 type: "Talk"
-permalink: /talks/talk
+permalink: /talks/talk1
 venue: " "
 date: 
 location: " "
