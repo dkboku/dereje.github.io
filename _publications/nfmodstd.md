@@ -1,6 +1,7 @@
 ---
 title: "Gröbner Bases over Algebraic Number Fields"
 collection: publications
+permalink: /publication/nfmodstd
 excerpt: 'This paper presents an efficient way for computing the above mentioned bases using modular algorithms over algebraic number fields.'
 date: 2015-07-01
 venue: 'Poceedings of PASCO'
