@@ -1,8 +1,8 @@
 ---
-title: "Advanced Linear Algebra"
+title: "Algebra II"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/teaching1
+permalink: /teaching/teaching2
 venue: "Dilla University, Department of Mathematics"
 date: 2017-02-01 - 2017-06-30
 location: "Dilla, Ethiopia"
@@ -10,17 +10,11 @@ location: "Dilla, Ethiopia"
 
 In this course, we study:
 
-Vector Spaces
+Module Theory
 ======
 
-Linear Transformations and 
+Field Extensions and 
 ======
 
-DIAGONALIZATION AND INNER PRODUCT SPACES
-======
-
-QUADRATIC FORMS
-======
-
-OPERATOR FACTORIZATION
+Galois Theory
 ======
