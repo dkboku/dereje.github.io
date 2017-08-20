@@ -6,5 +6,4 @@ author_profile: true
 cvurl: 'http://dkboku.github.io/files/cv.pdf'
 ---
 
-Download cv here <u><a href="http://dkboku.github.io/files/cv.pdf"> resume </a>.</u>
-
+Download my cv here <a href="./cv.md"> resume </a>, <a href="http://dkboku.github.io/files/cv.pdf"> pdf </a>
