@@ -2,7 +2,7 @@
 title: "Algebra I"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/algebraI
 venue: "Dilla University, Department of Mathematics"
 date: 2016-09-01
 location: "Dilla, Ethiopia"
