@@ -1,20 +1,20 @@
 ---
-title: "Algebra I"
+title: "Algebra II"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/teaching1
 venue: "Dilla University, Department of Mathematics"
-date: 2016-09-01
+date: 2017-02-01 - 2017-06-30
 location: "Dilla, Ethiopia"
 ---
 
 In this course, we study:
 
-Groups
+Vector Spaces
 ======
 
-Structure of Groups and 
+Linear Transformations and 
 ======
 
-Rings
+Eigenvectors, Eigenvalues and Diagonaliations
 ======
