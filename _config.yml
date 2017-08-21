@@ -172,6 +172,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  exercises:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -207,6 +210,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: exercise
     values:
       layout: single
       author_profile: true
@@ -299,7 +311,7 @@ tag_archive:
 
 # HTML Compression
 # - http://jch.penibelst.de/
-compress_html:
+compress_html: 
   clippings: all
   ignore:
     envs: development
