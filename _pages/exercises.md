@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Exercises "
 permalink: /exercises/
 author_profile: true
 ---
