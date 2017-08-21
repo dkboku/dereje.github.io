@@ -8,4 +8,4 @@ venue: ' in Singular'
 liburl: 'https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/nfmodstd.lib'
 citation:  'D. K. Boku, W. Decker, and C. Fieker. (2015). &quot;\texttt{nfmodstd.lib} A \textsc{Singular}~4-0-2 library for computing Gr\"obner bases of ideals in polynomial rings over algebraic number fields.'
 ---
-To visit the nfmodstd library click <p><a href="https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/nfmodstd.lib"> nfmodstd.lib </a><p>
+To visit the nfmodstd library click <a href="https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/nfmodstd.lib"> nfmodstd.lib </a>
