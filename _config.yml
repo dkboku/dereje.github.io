@@ -90,14 +90,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/dereje.kifle.549"
   foursquare       : 
   github           : "dkboku"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dereje-kifle-13b4846b"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -117,6 +117,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _exercises
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
