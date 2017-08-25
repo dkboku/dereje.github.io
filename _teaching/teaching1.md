@@ -12,15 +12,20 @@ In this course, we study:
 
 Vector Spaces
 ======
+This chapter deals with the notion of vectors paces. 
 
 Linear Transformations and 
 ======
+This chapter deals with the notion of linear transformations. 
 
-DIAGONALIZATION AND INNER PRODUCT SPACES
+DiagonaliZation and Inner Product Spaces
 ======
+This chapter deals with the notion of DiagonaliZation and Inner Product Spaces. 
 
-QUADRATIC FORMS
+Quadratic Forms
 ======
+This chapter deals with the notion of vectors paces. 
 
-OPERATOR FACTORIZATION
+Operator FactoriZation
 ======
+This chapter deals with the notion of vectors paces. 
