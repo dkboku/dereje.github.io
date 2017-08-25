@@ -8,9 +8,9 @@ date: 2017-02-01 - 2017-06-30
 location: "Dilla, Ethiopia"
 ---
 
-In this course, we study see <a href="https://dkboku.github.io/files/AlgebraILectureNote.pdf"> Lecture Note ALGI </a>:
+In this course, we study, see <a href="https://dkboku.github.io/files/AlgebraILectureNote.pdf"> Lecture Note ALGI </a>:
 
-Vector Spaces see <a href="https://dkboku.github.io/files/chapter1.pdf"> chapter1 </a>
+Vector Spaces, see <a href="https://dkboku.github.io/files/chapter1.pdf"> chapter1 </a>
 ======
 This chapter deals with the notion of vectors paces. 
 
