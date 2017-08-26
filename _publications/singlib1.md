@@ -10,4 +10,3 @@ citation: 'D. K. Boku, W. Decker, and C. Fieker. (2015). nfmodstd.lib A Singular
 ---
 To visit the nfmodstd library click <a href="https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/nfmodstd.lib"> nfmodstd.lib </a>
 
-%&quot;
