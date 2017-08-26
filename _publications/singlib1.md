@@ -6,7 +6,7 @@ excerpt: 'This library includes the implementation of the nfmodstd algorithm giv
 date: 2015
 venue: 'Singular 4-0-2'
 liburl: 'https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/nfmodstd.lib'
-citation:  'D. K. Boku, W. Decker, and C. Fieker. (2015). nfmodstd.lib A Singular 4-0-2 library for computing Groebner bases of ideals in polynomial rings over algebraic number fields.'
+citation: 'D. K. Boku, W. Decker, and C. Fieker. (2015). nfmodstd.lib A Singular 4-0-2 library for computing Groebner bases of ideals in polynomial rings over algebraic number fields.'
 ---
 To visit the nfmodstd library click <a href="https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/nfmodstd.lib"> nfmodstd.lib </a>
 

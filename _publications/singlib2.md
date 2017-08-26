@@ -9,4 +9,4 @@ citation:  'D. K. Boku, W. Decker, and C. Fieker. (2016). ffmodstd.lib A Singula
 ---
 To visit the ffmodstd library click <a href="https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/ffmodstd.lib"> ffmodstd.lib </a>
 
-%liburl: 'https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/ffmodstd.lib'
+{%liburl: 'https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/ffmodstd.lib'%}
