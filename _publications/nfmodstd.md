@@ -5,9 +5,9 @@ permalink: /publication/nfmodstd
 excerpt: 'This paper presents an efficient method for computing the above mentioned bases using modular algorithms over algebraic number fields.'
 date: July, 2015
 venue: 'Poceedings of PASCO'
-paperurl: 'http://dkboku.github.io/files/nfmodstd.pdf'
 citation: 'D. K. Boku, W. Decker, C. Fieker, and A. Steenpass (2015)&quot; Groebner bases over algebraic number fields.&quot;New York, NY, USA. ACM.  '
 ---
 Download the nfmodstd paper <a href="https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/nfmodstd.lib"> here </a>
 #[Download paper here](http://dkboku.github.io/files/nfmodstd.pdf)
+#paperurl: 'http://dkboku.github.io/files/nfmodstd.pdf'
 
