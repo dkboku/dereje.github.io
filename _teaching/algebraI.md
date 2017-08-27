@@ -3,8 +3,7 @@ title: "Algebra I"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/algebraI
-venue: " "
-date: Sept, 2016
+date: Sept 2016
 location: "Dilla, Ethiopia"
 ---
 
