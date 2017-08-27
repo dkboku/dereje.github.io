@@ -3,7 +3,7 @@ title: "Commutative Algebra"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/commutativeAlg
-venue: " "
+venue: 
 date: Sept 2017
 location: "Dilla, Ethiopia"
 ---

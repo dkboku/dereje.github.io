@@ -3,7 +3,7 @@ title: "Exercises"
 collection: teaching
 type: "Exercise sheets"
 permalink: /teaching/exercises
-venue: " "
+venue: 
 date: Sept 2016
 location: "Dilla, Ethiopia"
 ---

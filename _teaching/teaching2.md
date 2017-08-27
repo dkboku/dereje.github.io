@@ -3,7 +3,7 @@ title: "Algebra II"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/teaching2
-venue: " "
+venue: 
 date: Feb  2017
 location: "Dilla, Ethiopia"
 ---

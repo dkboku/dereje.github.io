@@ -3,7 +3,7 @@ title: "General Topology"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/teaching3
-venue: " "
+venue: 
 date: Sept 2016
 location: "Dilla, Ethiopia"
 ---
