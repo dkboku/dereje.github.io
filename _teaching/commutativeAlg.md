@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/commutativeAlg
 venue: " "
-date: Sept, 2016
+date: Sept 2017
 location: "Dilla, Ethiopia"
 ---
 
