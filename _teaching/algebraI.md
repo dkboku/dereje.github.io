@@ -3,18 +3,10 @@ title: "Algebra I"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/algebraI
-venue: "Dilla University, Department of Mathematics"
-date: 2016-09-01
+venue: " "
+date: Sept, 2016
 location: "Dilla, Ethiopia"
 ---
 
-In this course, we study:
 
-Groups
-======
-
-Structure of Groups and 
-======
-
-Rings
-======
+Click <a href="https://dkboku.github.io/files/AlgebraIcourseoutline.pdf"> here </a> to download the course outline and <a href="https://dkboku.github.io/files/chapter1.pdf"> here </a>  to download the lecture note. 
