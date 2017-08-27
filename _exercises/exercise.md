@@ -1,8 +1,9 @@
 ---
-title: "Will be updated soon"
+title: "Algebra I"
 collection: exercises
-type: "Exercise"
 permalink: /exercises/exercise
-location: 
+date: Sept, 2016
+location: "Dilla, Ethiopia"
 ---
 
+Click <a href="https://dkboku.github.io/files/AlgebraIcourseoutline.pdf"> here </a> to download the exercise
