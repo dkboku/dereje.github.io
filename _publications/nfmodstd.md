@@ -7,6 +7,6 @@ date: July, 2015
 venue: 'Poceedings of PASCO'
 citation: 'D. K. Boku, W. Decker, C. Fieker, and A. Steenpass (2015)&quot; Groebner bases over algebraic number fields.&quot;New York, NY, USA. ACM.  '
 ---
-Download the nfmodstd paper <a href="https://github.com/dkboku/Sources/blob/spielwiese/Singular/LIB/nfmodstd.lib"> here </a>
+To download the paper click <a href="http://dkboku.github.io/files/nfmodstd.pdf"> nfmodstd.pdf </a>
 
 
