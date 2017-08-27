@@ -3,6 +3,7 @@ title: "Advanced Linear Algebra"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/teaching1
+venue: "DU"
 date: Sept 2016 
 location: "Dilla, Ethiopia"
 ---
