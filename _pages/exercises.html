@@ -4,3 +4,9 @@ title: "Exercises"
 permalink: /exercises/
 author_profile: true
 ---
+
+{% include base_path %}
+
+{% for post in site.exercises reversed %}
+  {% include archive-single.html %}
+{% endfor %}
