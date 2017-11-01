@@ -3,7 +3,7 @@ title: "Algebra I"
 collection: exercises
 type: "Graduate course exercise"
 permalink: /exercises/exercise
-date: Sept 2017
+date: Nov 2017
 location: "Dilla, Ethiopia"
 ---
 
