@@ -4,8 +4,8 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/teaching1
 venue: "DU"
-date: Sept 2016 
+date: Nov 2017 
 location: "Dilla, Ethiopia"
 ---
 
-Click <a href="https://dkboku.github.io/files/AdvLAcourseoutline.pdf"> here </a> to download the course outline and <a href="https://dkboku.github.io/files/chapter1.pdf"> here </a>  to download the lecture note. 
+Click <a href="https://dkboku.github.io/files/Advanced-LA-Note.pdf"> here </a> to download the course outline and <a href="https://dkboku.github.io/files/chapter1.pdf"> here </a>  to download the lecture note. 
