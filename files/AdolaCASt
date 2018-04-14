@@ -1,0 +1,75 @@
+//
+proc nFactorial(int n)
+{
+ // Compute n factorial for a given integer n
+    if(n==0)
+    {
+        return(1);
+    }
+    else
+    {
+        bigint k=1;
+        int i=1;
+        while(i<=n)
+        {
+            k=k*i;
+            //k;
+            i++;
+        }
+        return(k);
+     }
+}
+
+proc nFact(int n)
+{
+   if(n<0)
+   {
+       // "------ WARNING ----------"
+     ERROR(" Warning: n must be greater or equal to 0 ");
+   }
+   bigint k =1;
+   while(n >=2)
+   {
+      k = k*n;
+      n = n-1;
+   }
+   return(k);
+}
+
+proc Trace(intmat m)
+{
+    int k;
+    for(int j=1; j<=nrows(m); j++)
+    {
+        k= k+m[j,j];
+    }
+       return(k);
+}
+
+
+proc Gcd(int n, int m)
+{
+    int a, b;
+    a = m; 
+    b = n;
+    if(a == 0 and  b == 0)
+    {
+        return(0);
+    }
+    else
+    {
+        int r;
+        while( b != 0)
+        {
+            r=a%b;
+            a=b;
+            b=r;
+        }
+        if(a<0)
+        {
+            return(-a);
+        }
+        return(a);
+    }
+}
+
