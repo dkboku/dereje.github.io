@@ -139,3 +139,99 @@ proc lprime(int n)
     return(l);
 }
 
+proc extGCD(bigint a,  bigint b)
+{
+    bigint r0,r1,s0,s1,t0,t1,q,r2,s2,t2;
+    r0=a; r1=b; s0=1; t0=0;
+    s1=t0; t1=s0;
+    //list l;
+    while(r1!=0)
+    {
+        //l=division(r0,r1);
+        //r2 = r0%r1;
+        q = r0 div r1;
+        r2 = r0 - r1*q;
+        //q= l[1][1,1];
+        //r2= l[2][1];
+        s2=s0-q*s1;
+        t2=t0-q*t1;
+        r0=r1; r1=r2;
+        s0=s1; s1=s2;
+        t0=t1; t1=t2;
+        //"=========================";
+        //(r0,s0,t0);
+    }
+    //return(r0,s0,t0);
+    return("Dereje")
+}                         
+proc extGCDpoly(poly a,  poly b)
+{
+    poly r0,r1,s0,s1,t0,t1,q,r2,s2,t2;
+    r0=a; r1=b; s0=1; t0=0;
+    s1=t0; t1=s0;
+    list l;
+    while(r1!=0)
+    {
+        l = division(r0,r1);
+        q = l[1][1,1];
+        r2 = l[2][1];
+        s2 = s0-q*s1;
+        t2 = t0-q*t1;
+        r0 = r1; r1 = r2;
+        s0 = s1; s1 = s2;
+        t0 = t1; t1 = t2;
+        "=========================";
+        (r0,s0,t0);
+    }
+    return(r0, s0, t0);
+}          
+
+proc normN(poly f)
+{
+    if(f!=0)
+    {
+        return(f/leadcoef(f));
+    }
+    else
+    {
+        return(lu(f));
+    }
+}                
+
+
+proc lu(poly f)
+{
+    if(f!=0)
+    {
+        return(leadcoef(f));
+    }
+    else
+    {
+          return(poly(1));
+    }
+}           
+
+
+proc GcdpolyN(poly a, poly b)
+{
+    poly h0,h1,h2,r0,r1,s0,s1,t0,t1,q,r2,s2,t2;
+    h0=lu(a); h1=lu(b);
+    r0=normN(a); r1=normN(b); s0=1/h0;t0=0;
+    s1=t0; t1=1/h1;
+    list l;
+    while(r1!=0)
+    {
+        //"===========";
+        //(r0,s0,t0);
+        l=division(r0,r1);// divide ro by r1
+        q=l[1][1,1];// q = ro quo r1
+        r2=l[2][1];// r2 = ro rem r1
+        h2=lu(r2);
+        s2=(s0-q*s1)/h2;
+        t2=(t0-q*t1)/h2;
+        r0=r1; r1=r2;
+        s0=s1; s1=s2;
+        t0=t1; t1=t2;
+    }
+    return(cleardenom(r0)); //list (r0,s0,t0));
+} 
