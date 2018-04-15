@@ -73,6 +73,7 @@ proc Gcd(int n, int m)
     }
 }
 
+// compute a list of primes less than or equal to an integer n
 proc listprime(int n)
 {
     if(n==2)
@@ -85,12 +86,13 @@ proc listprime(int n)
     }
     else
     {
+         // here n> 2
          list T=2..n;
          intvec v=T[1];
-         list l=v[1..nrows(v)];
+         list l=v[1..nrows(v)]; // l = 2,3, 4,5,6, ...
          list m;
          int i=1;
-         int j;
+         int j; // j = 0
          while(1)
          {
               if(l[i]^2>n)
@@ -106,10 +108,34 @@ proc listprime(int n)
               }
               m=list(l[1..i])+m;
               l=m;
-              m=list();
+              m=list(); // empty list 
               i=i+1;
          }
      }
 }                          
 
+proc list_prime(int n)
+{
+    int k=n;
+    list l;
+    while(k>1)
+    {
+        k=prime(k)-1;
+        l=l+list(k+1);
+    }
+    return(l);
+}
+
+proc lprime(int n)
+{
+    list l;
+    for(int i = 2; i<=n; i++)
+    {
+        if(prime(i) == i)
+        {
+            l = l + list(i);
+        }
+    }
+    return(l);
+}
 
