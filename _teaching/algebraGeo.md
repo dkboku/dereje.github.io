@@ -8,4 +8,4 @@ location: "Dilla, Ethiopia"
 ---
 
 
-Click <a href="https://dkboku.github.io/files/AlgebraicGeometryCourseoutline.pdf"> here </a> to download the course outline and <a href="https://dkboku.github.io/files/chapter1.pdf"> here </a>  to download the lecture note. 
+Click <a href="https://dereje.github.io/files/AlgebraicGeometryCourseoutline.pdf"> here </a> to download the course outline and <a href="https://dereje.github.io/files/chapter1.pdf"> here </a>  to download the lecture note. 
