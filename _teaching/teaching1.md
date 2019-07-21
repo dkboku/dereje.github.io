@@ -8,4 +8,4 @@ date: Nov 2017
 location: "Dilla, Ethiopia"
 ---
 
-Click <a href="https://dereje.github.io/files/AdvLAcourseoutline.pdf"> here </a> to download the course outline and <a href="https://dereje.github.io/files/Advanced-LA-Note.pdf"> here </a>  to download the lecture note. 
+Click <a href="https://dkboku.github.io/files/AdvLAcourseoutline.pdf"> here </a> to download the course outline and <a href="https://dkboku.github.io/files/Advanced-LA-Note.pdf"> here </a>  to download the lecture note. 

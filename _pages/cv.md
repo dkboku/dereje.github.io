@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-cvurl: 'https://dereje.github.io/files/CV.pdf'
+cvurl: 'https://dkboku.github.io/files/CV.pdf'
 ---
 
-Download my cv <u><a href="https://dereje.github.io/files/CV.pdf"> here </a></u>
+Download my cv <u><a href="https://dkboku.github.io/files/CV.pdf"> here </a></u>

@@ -7,4 +7,4 @@ date: Nov 2017
 location: "Dilla, Ethiopia"
 ---
 
-Click <a href="https://dereje.github.io/files/cahw1.pdf">  homework1 </a> to download the exercises and <a href="https://dereje.github.io/files/AdolaCASt"> CAcode </a> to download a Singular code.
+Click <a href="https://dkboku.github.io/files/cahw1.pdf">  homework1 </a> to download the exercises and <a href="https://dkboku.github.io/files/AdolaCASt"> CAcode </a> to download a Singular code.
